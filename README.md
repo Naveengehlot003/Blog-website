@@ -35,7 +35,7 @@ This is a simple yet powerful blog website built using Flask, HTML, CSS, JS, and
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/sahilgoyal7214/Flask-Blog.git
+   git clone https://github.com/Naveengehlot003/Blog-website.git
    cd Flask-Blog
    ```
 
